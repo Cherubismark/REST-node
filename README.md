@@ -115,7 +115,6 @@ If no logo is provided:
 
 - Express server setup
 - Middleware usage
-- Route parameters
 - JSON handling
 - HTTP status codes
 - API request validation
